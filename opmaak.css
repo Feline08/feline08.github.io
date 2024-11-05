@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: hotpink;
 }
 
 li {
@@ -19,5 +19,5 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #c9af3b;
+  background-color: pink;
 }
