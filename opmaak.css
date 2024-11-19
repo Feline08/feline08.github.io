@@ -19,5 +19,5 @@ li a {
 }
 
  li a:hover:not(.active) {
-  background-color: ea899a;
+  background-color: black;
 }
