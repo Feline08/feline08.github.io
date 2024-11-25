@@ -23,4 +23,7 @@ li a {
 }
 
 body {
-  background-image:
+  background-image: url(goud.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
